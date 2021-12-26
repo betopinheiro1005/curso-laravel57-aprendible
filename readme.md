@@ -5,34 +5,34 @@
 
 ### Lista de aulas  
 
-01 - Cómo instalar Laragon en Windows  
-01 - Cómo instalar Valet en MAC  
-02.1 - Configurando Sublime Text  
-02.2 - Mejorando la apariencia de Sublime Text  
-02.3 - Configurando PHP Companion en Sublime Text  
-02.4 - Preferencias personales de Sublime Text  
-02.5 - Mejorando la apariencia parte 2  
-03 - Estructura de carpetas  
-04 - Qué son y cómo funcionan las rutas  
-05 - Rutas con nombres  
-06 - Vistas  
-07 - Blade, el motor de plantillas  
-08 - Estructuras de control  
-09 - Controladores  
-10 - Controladores Resource & API  
-11 - Activación de links de navegación  
-12 - Cómo enviar formularios  
-13 - Cómo validar formularios  
-14 - Cómo traducir tus aplicaciones  
-15 - Cómo enviar emails  
-16 - Variables de entorno y bases de datos  
-17 - Migraciones  
-18 - Eloquent: Obtener datos  
-19 - Eloquent: Obtener registros individuales  
-21 - Eloquent - Insertar registros  
-22 - Qué significa asignación masiva  
-23- Qué son y cómo utilizar Form Requests  
-24- Eloquent: Actualizar registros  
+Aula 01 - Cómo instalar Laragon en Windows  
+Aula 01 - Cómo instalar Valet en MAC  
+Aula 02.1 - Configurando Sublime Text  
+Aula 02.2 - Mejorando la apariencia de Sublime Text  
+Aula 02.3 - Configurando PHP Companion en Sublime Text  
+Aula 02.4 - Preferencias personales de Sublime Text  
+Aula 02.5 - Mejorando la apariencia parte 2  
+Aula 03 - Estructura de carpetas  
+Aula 04 - Qué son y cómo funcionan las rutas  
+Aula 05 - Rutas con nombres  
+Aula 06 - Vistas  
+Aula 07 - Blade, el motor de plantillas  
+Aula 08 - Estructuras de control  
+Aula 09 - Controladores  
+Aula 10 - Controladores Resource & API  
+Aula 11 - Activación de links de navegación  
+Aula 12 - Cómo enviar formularios  
+Aula 13 - Cómo validar formularios  
+Aula 14 - Cómo traducir tus aplicaciones  
+Aula 15 - Cómo enviar emails  
+Aula 16 - Variables de entorno y bases de datos  
+Aula 17 - Migraciones  
+Aula 18 - Eloquent: Obtener datos  
+Aula 19 - Eloquent: Obtener registros individuales  
+Aula 21 - Eloquent - Insertar registros  
+Aula 22 - Qué significa asignación masiva  
+Aula 23- Qué son y cómo utilizar Form Requests  
+Aula 24- Eloquent: Actualizar registros  
 
 ##
 
