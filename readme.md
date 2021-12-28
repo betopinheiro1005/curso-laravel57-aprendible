@@ -1,9 +1,13 @@
 # Curso de Laravel 5.7 desde cero
 ## Aprendible  
 
-### [](https://www.youtube.com/watch?v=QRwuPHeagaQ&list=PLpKWS6gp0jd_uZiWmjuqLY7LAMaD8UJhc)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [](https://www.youtube.com/watch?v=QRwuPHeagaQ&list=PLpKWS6gp0jd_uZiWmjuqLY7LAMaD8UJhc)  
 
 Aula 01 - Cómo instalar Laragon en Windows  
 Aula 01 - Cómo instalar Valet en MAC  
